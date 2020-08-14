@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 # Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/harsh2201/count.svg)
