@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harsh2201&show_icons=true&theme=radical)
+
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-60-blue)
 
