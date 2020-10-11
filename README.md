@@ -5,6 +5,7 @@
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harsh2201&show_icons=true&theme=radical)
 
+**Note: These stats are generated automatically using WakaTime which is integreted with my editor. The data might be old due to caching.**
 
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
