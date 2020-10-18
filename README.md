@@ -89,3 +89,7 @@ CSS                      6 repos             ██░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+
+**I am currently listening to**
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0zd53poz5lu9da8yk1wq8bpss&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=0zd53poz5lu9da8yk1wq8bpss&redirect=true)
