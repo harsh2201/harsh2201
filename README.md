@@ -84,7 +84,7 @@ CSS                      6 repos             ██░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/harsh2201/harsh2201/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/harsh2201/harsh2201/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
