@@ -10,7 +10,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 59 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 571.0 kB Used in GitHub's Storage 
  > 
@@ -79,7 +79,7 @@ CSS                      5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/harsh2201/harsh2201/master/charts/bar_graph.png) 
 
 
- Last Updated on 30/12/2021
+ Last Updated on 01/01/2022
 <!--END_SECTION:waka-->
 
 
