@@ -12,7 +12,7 @@
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 571.0 kB Used in GitHub's Storage 
+> 📦 571.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -79,7 +79,7 @@ CSS                      5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/harsh2201/harsh2201/master/charts/bar_graph.png) 
 
 
- Last Updated on 12/01/2022
+ Last Updated on 14/01/2022
 <!--END_SECTION:waka-->
 
 
