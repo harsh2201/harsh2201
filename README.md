@@ -8,7 +8,7 @@
 **Note: These stats are generated automatically using WakaTime which is integreted with my editor. The data might be old due to caching.**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-156%20hrs%2040%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -81,7 +81,7 @@ CSS                      6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/harsh2201/harsh2201/master/charts/bar_graph.png) 
 
 
- Last Updated on 22/07/2022 18:58:28 UTC
+ Last Updated on 17/08/2022 18:59:06 UTC
 <!--END_SECTION:waka-->
 
 
