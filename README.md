@@ -8,7 +8,7 @@
 **Note: These stats are generated automatically using WakaTime which is integreted with my editor. The data might be old due to caching.**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-156%20hrs%2040%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -22,6 +22,48 @@
  > 
 > 🔑 35 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    13 commits     █████░░░░░░░░░░░░░░░░░░░░   21.31% 
+🌆 Daytime    28 commits     ███████████░░░░░░░░░░░░░░   45.9% 
+🌃 Evening    9 commits      ███░░░░░░░░░░░░░░░░░░░░░░   14.75% 
+🌙 Night      11 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.03%
+
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       8 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.11% 
+Tuesday      13 commits     █████░░░░░░░░░░░░░░░░░░░░   21.31% 
+Wednesday    5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.2% 
+Thursday     10 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.39% 
+Friday       20 commits     ████████░░░░░░░░░░░░░░░░░   32.79% 
+Saturday     3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.92% 
+Sunday       2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.28%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -39,7 +81,7 @@ CSS                      6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/harsh2201/harsh2201/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 18:56:24 UTC
+ Last Updated on 05/09/2022 18:54:53 UTC
 <!--END_SECTION:waka-->
 
 
