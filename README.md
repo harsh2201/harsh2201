@@ -22,48 +22,6 @@
  > 
 > 🔑 37 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    109 commits    ███████████░░░░░░░░░░░░░░   46.58% 
-🌆 Daytime    52 commits     █████░░░░░░░░░░░░░░░░░░░░   22.22% 
-🌃 Evening    30 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.82% 
-🌙 Night      43 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.38%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.96% 
-Tuesday      54 commits     █████░░░░░░░░░░░░░░░░░░░░   23.08% 
-Wednesday    40 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.09% 
-Thursday     31 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.25% 
-Friday       41 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.52% 
-Saturday     24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.26% 
-Sunday       9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.85%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -81,7 +39,7 @@ HTML                     8 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/harsh2201/harsh2201/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/11/2022 19:06:23 UTC
+ Last Updated on 09/11/2022 18:54:30 UTC
 <!--END_SECTION:waka-->
 
 
