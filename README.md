@@ -1,10 +1,7 @@
 # Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/harsh2201/count.svg)
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harsh2201&show_icons=true&theme=radical)
-
-
-<!--END_SECTION:waka-->
+<!-- ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harsh2201&show_icons=true&theme=radical)  -->
 
 
 <!-- **I am currently listening to**
